@@ -1,0 +1,18 @@
+http://localhost/security/xamppsecurity.php
+
+http://localhost/phpmyadmin  acessar site phpmyadmin
+
+Como abrir o phpmyadmin	ligar ao xampp
+
+https://www.youtube.com/watch?v=3kYc-3vYJwI  video como acessar o phpmyadmin
+
+
+https://www.youtube.com/watch?v=f6johMrO--U videos app
+
+http://www.devmedia.com.br/instalacao-do-wampserver/25871
+
+
+
+
+18/04
+https://www.google.com.br/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=ficha%20de%20visita%20agente%20de%20saude
